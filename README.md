@@ -19,12 +19,12 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage Instructions
-`python3.6 xssmap.py -h`
+`python3.6 huntxss.py -h`
 
 Support POST and GET request methods, support parameter injection detection in cookie, referer, useragent fields
 For example, test the returnUrl parameter in POST data:
 
-`python3.6 xssmap.py -u "https://example.com/login.do" --data="returnUrl=utest" -p returnUrl` 
+`python3.6 huntxss.py -u "https://example.com/login.do" --data="returnUrl=utest" -p returnUrl` 
 
 
 ## Features
