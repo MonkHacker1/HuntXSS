@@ -1,5 +1,4 @@
-2020.08.20 update
-There are still a lot of bugs, so I'll take the time to fix them soon, so please keep updating.
+
 
 # HuntXSS
 HuntXSS is a security tool designed to identify and exploit cross-site scripting (XSS) vulnerabilities in web applications. XSS is a type of security vulnerability that allows an attacker to inject malicious code into a web page viewed by other users. This can lead to the theft of sensitive information or the execution of unauthorized actions on the user's behalf.
